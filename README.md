@@ -3,10 +3,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/vfabi/dummy-httpserver)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-[![Generic badge](https://img.shields.io/badge/hub.docker.com-vfabi/dummy-httpserver-<>.svg)](https://hub.docker.com/repository/docker/vfabi/dummy-httpserver)
+[![Generic badge](https://img.shields.io/badge/hub.docker.com-vfabi/dummy_httpserver-<>.svg)](https://hub.docker.com/repository/docker/vfabi/dummy-httpserver)
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/vfabi/dummy-httpserver)
 ![Docker Pulls](https://img.shields.io/docker/pulls/vfabi/dummy-httpserver)
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/dummy-httpserver)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/vfabi/dummy-httpserver)
 
 Dummy http server to display internal data - hostname, ip address, environment variables, etc.  
 For test/debug purposes only!
@@ -30,7 +30,7 @@ Exposes 8000 port.
 
 
 # Docker
-[![Generic badge](https://img.shields.io/badge/hub.docker.com-vfabi/dummy-httpserver-<>.svg)](https://hub.docker.com/repository/docker/vfabi/dummy-httpserver)
+[![Generic badge](https://img.shields.io/badge/hub.docker.com-vfabi/dummy_httpserver-<>.svg)](https://hub.docker.com/repository/docker/vfabi/dummy-httpserver)
 
 
 # Contributing
