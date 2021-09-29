@@ -1,0 +1,18 @@
+replicaCount: 1
+image:
+  pullPolicy: IfNotPresent
+  repository: vfabi/dummy-httpserver
+imagePullSecrets: []
+nameOverride: ""
+fullnameOverride: ""
+podSecurityContext: {}
+securityContext: {}
+resources: {}
+nodeSelector: {}
+tolerations: []
+affinity: {}
+
+
+service:
+  type: ClusterIP
+  port: 8000

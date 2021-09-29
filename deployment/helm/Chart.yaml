@@ -1,0 +1,6 @@
+apiVersion: v2
+name: helm-example
+description: A Helm chart for dummy-httpserver application
+type: application
+version: 1.0.0
+appVersion: "latest"
